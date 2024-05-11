@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fab_share" type="id" />
+    <item name="fab_music" type="id" />
+    <item name="fab_bookmark" type="id" />
+    <item name="fab_solfa" type="id" />
+
+
+
+</resources>

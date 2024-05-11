@@ -1,0 +1,12 @@
+#Configuration file
+Version=1
+Description=Biakna Leh Phatna
+LabuMin=Biakna leh Phatna
+LabuMinTom=BNP
+LabuTextPath=labupi/labu/bp/bp1.1.epub
+LabuDataPath=labupi/labu/bp/bp1.1.xml
+LabuIconFile=labupi/labu/bp/bp1.png
+LabuPdfFile=bp.pdf
+LabuPdfPath=labupi/labu/bp
+
+NoOfSong=241

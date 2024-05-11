@@ -1,0 +1,11 @@
+#Configuration file
+Version=1
+Description=Suangmantam
+Publisher=Evangelical Baptist Convention
+LabuMin=Suangmantam
+CopyRight=©Evangelical Baptist Convention
+LabuMinTom=SMT
+LabuTextPath=labupi/labu/smt/smt.epub
+LabuDataPath=labupi/labu/smt/smt.xml
+LabuIconFile=labupi/labu/smt/smt1.png
+NoOfSong=333

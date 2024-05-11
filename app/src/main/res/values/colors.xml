@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="colorPrimary">#58a597</color>
+    <color name="colorPrimaryDark">#257669</color>
+    <color name="colorAccent">#91df8c</color>
+    <color name="viewBg">#f1f5f8</color>
+    <color name="labu_title">#262626</color>
+</resources>

@@ -1,0 +1,11 @@
+#Configuration file
+Version=1
+Description=Biakna Late
+Publisher=Evangelical Baptist Convention
+LabuMin=Biakna Late
+CopyRight=©Evangelical Baptist Convention
+LabuMinTom=BL
+LabuTextPath=labupi/labu/bl/bl1.1.epub
+LabuDataPath=labupi/labu/bl/bl.xml
+LabuIconFile=labupi/labu/bl/bl1.png
+NoOfSong=517

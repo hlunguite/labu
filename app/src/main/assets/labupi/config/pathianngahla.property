@@ -1,0 +1,12 @@
+#Configuration file for Pathian Ngaih La
+Version=1
+Description=Pathian Ngaih La
+Publisher=The Publication Trust, EBC
+LabuMin=Pathian Ngaih La
+CopyRight=©Evangelical Baptist Convention
+LabuMinTom=PN
+LabuTextPath=labupi/labu/pnl/pnl.epub
+LabuDataPath=labupi/labu/pnl/pnl.xml
+LabuPdfPath=labupi/labu/pnl
+LabuIconFile=labupi/labu/pnl/pn1.png
+NoOfSong=415
